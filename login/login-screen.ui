@@ -86,7 +86,7 @@
     <string>Login</string>
    </property>
   </widget>
-  <widget class="QTextEdit" name="textEdit">
+  <widget class="QTextEdit" name="text_name_login">
    <property name="geometry">
     <rect>
      <x>270</x>

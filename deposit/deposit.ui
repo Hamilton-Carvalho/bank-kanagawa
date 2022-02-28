@@ -137,7 +137,7 @@
     </rect>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="Button_screen_deposit1">
    <property name="geometry">
     <rect>
      <x>180</x>
